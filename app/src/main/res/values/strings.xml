@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PathwayAndroidRoom</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lista_de_palabras">Lista de Palabras</string>
+    <string name="agregar_palabra">Agregar Palabra</string>
+    <string name="palabra">Palabra</string>
+    <string name="nueva_palabra">Nueva Palabra</string>
+</resources>
